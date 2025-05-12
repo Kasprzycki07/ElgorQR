@@ -1,0 +1,2 @@
+# ElgorQR
+QR Scanner
