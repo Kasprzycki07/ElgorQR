@@ -1,0 +1,58 @@
+/* QR 2.3 */
+
+.carousel-control-prev {
+    transform: translateY(500%);
+    height: 20%;
+}
+  
+.carousel-control-next{
+    transform: translateY(500%);
+    height: 20%;
+}
+
+:root {
+    --primary: rgba(255, 255, 255, 0.1);
+    --primary-bg: rgba(255, 255, 255, 0.1);
+    --border-color: rgba(255, 255, 255, 0.2);
+    --accent-color: #012864;
+    --hover-accent: #001536;
+    --text-primary: #FFFFFF;
+    --text-secondary: rgba(255, 255, 255, 0.8);
+    --shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+}
+
+#title{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid var(--border-color);
+}
+
+body{
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    background: linear-gradient(#001F4D);
+    color: #FFFFFF;
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 5%;
+    border-radius: 5%;
+}
+#navB{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid var(--border-color);
+}
+
+#navA{
+    background-color: #001F4D;
+    border-bottom: 1px solid var(--border-color);
+}
+
+#button{
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+    border: solid 2px #001F4D;
+}
+#zlecenieSEC{
+    display: none;
+}
