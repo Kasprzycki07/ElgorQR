@@ -1,0 +1,4 @@
+serwer: produkcja.elgor.com.pl
+baza: produkcja_przewody
+użytkownik: produkcja_przewody
+hasło: 1MG8tWGCWf5NdD
